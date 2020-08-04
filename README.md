@@ -17,3 +17,5 @@ Table of Contents
 1. [用户画像基础](https://mp.weixin.qq.com/s/MFKYddfINEQnUO-WPTTdGg). DataFunTalk. 2020.08.01. 
 
 
+[人物图谱构建技术](https://zhuanlan.zhihu.com/p/166587883) (来自知乎, 漆桂林教授, 东南大学)
+
