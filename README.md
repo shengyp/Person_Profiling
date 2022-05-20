@@ -19,3 +19,5 @@ Table of Contents
 
 [人物图谱构建技术](https://zhuanlan.zhihu.com/p/166587883) (来自知乎, 漆桂林教授, 东南大学)
 
+
+[徐童：视频人物社交关系图生成与应用](https://mp.weixin.qq.com/s/0ddVAlylCylW-8se0w0ORQ). 2022.05.20
